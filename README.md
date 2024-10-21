@@ -5,6 +5,9 @@ Users can upload an image, select a steganography method, and provide a secret k
 Later, users can retrieve the hidden message by uploading the same image, selecting the appropriate method, and providing the correct key.
 This application demonstrates the principles of data hiding and web development.
 
+![image](https://github.com/user-attachments/assets/50bb0410-8245-4451-8a34-2464f297c45f)
+
+
 ## Features
 
 - Upload an image to embed a hidden message.
